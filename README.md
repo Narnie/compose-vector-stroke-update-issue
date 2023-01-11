@@ -6,5 +6,6 @@ Example app to demonstrate a bug when updating the vector stroke width in Jetpac
 - Stroke Width is updated if the tree hierachy is different in the Vector Drawable - in the example app the path is wrapped in a group to get it to update. 
 
 Example is on Nexus 4 API 33
+
 https://user-images.githubusercontent.com/20655175/211729858-2dcc8ece-dc33-45dd-8a32-16dfe44c7dbd.mov
 
